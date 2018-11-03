@@ -7,4 +7,8 @@ asked.
 This is the best readme you will get. If you can't manage to make it work then I guess you'll
 be manually copying numbers from your phone to your PC. Nice!
 
+# On getting your TOTP key
+
+I forgot how to do that. It was something like capturing packets when you register it. The number
+travels from here to there when it's added to OpenVPN. It's painfull to recover from the phone app.
 
