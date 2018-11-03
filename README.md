@@ -1,4 +1,4 @@
-# Bypass google authenticator 2-factor with openVPN
+# Bypass google authenticator 2-factor in OpenVPN
 Hi, fuck phones. You need expect (apt-get,pacman,emerge,etc), python, pyotp and linux. 
 It should work in \*nix environments with some elbow grease. 
 On Window$ you can just make the python script copy the code to the clipboard and paste when 
